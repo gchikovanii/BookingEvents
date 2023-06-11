@@ -1,0 +1,40 @@
+﻿@model ReservationDto
+@{
+    ViewData["Title"] = "Resertve Ticket";
+}
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h1>Buy Tickets</h1>
+        </p>
+        <div class="row">
+            <div class="col-md-8 offset-2">
+                <form asp-action="Reserve">
+                    <h1>If you want to reserve one ticket please click Reserve</h1>
+                    <div class="form-group">
+                        <label style="display: none" id="priceLabel" hidden> @Model.Price</label>
+                        <label asp-for="Price" class="control-label">Price</label>
+                        <input asp-for="Price" class="form-control" readonly />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Quantity" class="control-label"></label>
+                        <input asp-for="Quantity" class="form-control" value="1" readonly />
+                        <span asp-validation-for="Quantity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price" class="control-label">Total Wiil be</label>
+                        <input asp-for="Price" class="form-control" id='totalId' readonly />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group d-flex justify-content-between mt-3">
+                        <a class="btn btn-outline-info" asp-controller="Events" asp-action="Index">Back</a>
+                        <input type="submit" value="Reserve" class="btn btn-outline-success float-right" />
+                    </div>
+                </form>
+                
+            </div>
+        </div>
+    </div>
+</div>
+

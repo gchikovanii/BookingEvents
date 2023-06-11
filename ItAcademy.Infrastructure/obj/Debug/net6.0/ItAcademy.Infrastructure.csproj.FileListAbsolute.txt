@@ -1,0 +1,44 @@
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.deps.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.runtimeconfig.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Application.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Domain.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Persistence.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Application.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Domain.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Persistence.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ka-GE\ItAcademy.Application.resources.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.AssemblyInfo.cs
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.csproj.CopyComplete
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\refint\ItAcademy.Infrastructure.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.genruntimeconfig.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ref\ItAcademy.Infrastructure.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.deps.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.runtimeconfig.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Infrastructure.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Application.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Domain.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Persistence.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Application.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Domain.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ItAcademy.Persistence.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\bin\Debug\net6.0\ka-GE\ItAcademy.Application.resources.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.csproj.AssemblyReference.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.AssemblyInfoInputs.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.AssemblyInfo.cs
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.csproj.CopyComplete
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\refint\ItAcademy.Infrastructure.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ItAcademy.Infrastructure.genruntimeconfig.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\obj\Debug\net6.0\ref\ItAcademy.Infrastructure.dll

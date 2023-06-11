@@ -1,0 +1,40 @@
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.deps.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.runtimeconfig.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Application.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Domain.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Application.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Domain.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ka-GE\ItAcademy.Application.resources.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.csproj.AssemblyReference.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.AssemblyInfoInputs.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.AssemblyInfo.cs
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.csproj.CopyComplete
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\refint\ItAcademy.Persistence.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.genruntimeconfig.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ref\ItAcademy.Persistence.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.deps.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.runtimeconfig.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Persistence.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Application.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Domain.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Application.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ItAcademy.Domain.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\bin\Debug\net6.0\ka-GE\ItAcademy.Application.resources.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.csproj.AssemblyReference.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.AssemblyInfoInputs.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.AssemblyInfo.cs
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.csproj.CoreCompileInputs.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.csproj.CopyComplete
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\refint\ItAcademy.Persistence.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ItAcademy.Persistence.genruntimeconfig.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Persistence\obj\Debug\net6.0\ref\ItAcademy.Persistence.dll

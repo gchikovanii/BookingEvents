@@ -1,0 +1,29 @@
+﻿@model RestrictEventTimeDto
+@{
+    ViewData["Title"] = "Set Time For users to update only after X Days";
+}
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h1>Set a time</h1>
+        </p>
+        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+        {
+            <div class="row">
+                <div class="col-md-8 offset-2">
+                <form asp-action="EventRestrict">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Hours" class="control-label">Set X Minutes for reservetion of ticket!</label>
+                        <input asp-for="Hours" class="form-control" />
+                        <span asp-validation-for="Hours" class="text-danger"></span>
+                        <div class="form-group  d-flex justify-content-end" style="margin-top: 10px">
+                            <input type="submit" value="Set Hours" class="btn btn-outline-primary" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        }
+    </div>
+</div>

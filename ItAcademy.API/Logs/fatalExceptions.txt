@@ -1,0 +1,200 @@
+2023-03-24 18:50:29.760 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: There is already an open DataReader associated with this Connection which must be closed first.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.BeginSqlTransaction(IsolationLevel iso, String transactionName, Boolean shouldReconnect)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginTransaction(IsolationLevel iso, String transactionName)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Common.DbConnection.BeginDbTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ItAcademy.Infrastructure.BaseRepo.BaseRepository`1.SaveChangesAsync(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\BaseRepo\BaseRepository.cs:line 39
+   at ItAcademy.Infrastructure.Archives.ArchiveRepository.MoveToArchive(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\Archives\ArchiveRepository.cs:line 44
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 18
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 18:50:44.101 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: There is already an open DataReader associated with this Connection which must be closed first.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.BeginSqlTransaction(IsolationLevel iso, String transactionName, Boolean shouldReconnect)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginTransaction(IsolationLevel iso, String transactionName)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Common.DbConnection.BeginDbTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ItAcademy.Infrastructure.BaseRepo.BaseRepository`1.SaveChangesAsync(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\BaseRepo\BaseRepository.cs:line 39
+   at ItAcademy.Infrastructure.Archives.ArchiveRepository.MoveToArchive(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\Archives\ArchiveRepository.cs:line 44
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 18
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 18:56:36.965 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: There is already an open DataReader associated with this Connection which must be closed first.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.BeginSqlTransaction(IsolationLevel iso, String transactionName, Boolean shouldReconnect)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginTransaction(IsolationLevel iso, String transactionName)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Common.DbConnection.BeginDbTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ItAcademy.Infrastructure.BaseRepo.BaseRepository`1.SaveChangesAsync(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\BaseRepo\BaseRepository.cs:line 39
+   at ItAcademy.Infrastructure.Archives.ArchiveRepository.MoveToArchive(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\Archives\ArchiveRepository.cs:line 28
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 18
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 18:59:45.715 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: There is already an open DataReader associated with this Connection which must be closed first.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.BeginSqlTransaction(IsolationLevel iso, String transactionName, Boolean shouldReconnect)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginTransaction(IsolationLevel iso, String transactionName)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Common.DbConnection.BeginDbTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ItAcademy.Infrastructure.BaseRepo.BaseRepository`1.SaveChangesAsync(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\BaseRepo\BaseRepository.cs:line 39
+   at ItAcademy.Infrastructure.Archives.ArchiveRepository.MoveToArchive(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\Archives\ArchiveRepository.cs:line 43
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 18
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 19:18:04.621 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: No service for type 'ItAcademy.Application.Archive.Reposiotires.IArchiveRepository' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 19
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 19:21:21.101 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: No service for type 'ItAcademy.Application.Archive.Reposiotires.IArchiveRepository' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 19
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 19:21:32.521 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: No service for type 'ItAcademy.Application.Archive.Reposiotires.IArchiveRepository' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 26
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 19
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 19:24:40.201 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: There is already an open DataReader associated with this Connection which must be closed first.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.BeginSqlTransaction(IsolationLevel iso, String transactionName, Boolean shouldReconnect)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginTransaction(IsolationLevel iso, String transactionName)
+   at Microsoft.Data.SqlClient.SqlConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Common.DbConnection.BeginDbTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ItAcademy.Infrastructure.BaseRepo.BaseRepository`1.SaveChangesAsync() in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\BaseRepo\BaseRepository.cs:line 43
+   at ItAcademy.Infrastructure.Archives.ArchiveRepository.MoveToArchive(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Infrastructure\Archives\ArchiveRepository.cs:line 43
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 25
+   at ItAcademy.Application.Infrastructure.Jobs.ArchiveWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ArchiveWorker.cs:line 17
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 22:59:00.070 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: No service for type 'ItAcademy.Application.Orders.Repositories.IReserveRepository' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at ItAcademy.Application.Infrastructure.Jobs.ReservationWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ReservationWorker.cs:line 34
+   at ItAcademy.Application.Infrastructure.Jobs.ReservationWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ReservationWorker.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131
+2023-03-24 23:01:00.202 +04:00 [FTL] Host Crashed!
+System.InvalidOperationException: No service for type 'ItAcademy.Application.Orders.Repositories.IReserveRepository' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at ItAcademy.Application.Infrastructure.Jobs.ReservationWorker.ExecuteJob(CancellationToken token) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ReservationWorker.cs:line 34
+   at ItAcademy.Application.Infrastructure.Jobs.ReservationWorker.ExecuteAsync(CancellationToken stoppingToken) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.Application\Infrastructure\Jobs\ReservationWorker.cs:line 22
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at Microsoft.AspNetCore.Builder.WebApplication.Run(String url)
+   at Program.<Main>$(String[] args) in D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\Program.cs:line 131

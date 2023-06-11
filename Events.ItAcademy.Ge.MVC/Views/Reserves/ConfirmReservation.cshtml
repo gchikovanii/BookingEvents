@@ -1,0 +1,48 @@
+﻿@model ReservationDto
+@{
+    ViewData["Title"] = "Resertve Ticket";
+}
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h1>Hi, You have @Model.Minutes Minutes to buy Tickets!</h1>
+        </p>
+        <div class="row">
+            <form asp-action="ConfirmReservationAction">
+                <div class="form-group d-flex justify-content-between mt-3">
+                    <a class="btn btn-outline-info" asp-controller="Events" asp-action="Index">Cancel</a>
+                    <input id="myBtn" type="submit" value="Buy" class="btn btn-outline-success float-right" />
+                </div>
+                <div class="form-group d-flex justify-content-end mt-3">
+                    <p>Time left: <span id="timer"></span></p>
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        startTimer();
+    };
+    var min="@Model.Minutes";
+    function startTimer() {
+        var countDownDate = new Date().getTime() + min * 60 * 1000;
+        var x = setInterval(function () {
+            var now = new Date().getTime();
+            var distance = countDownDate - now;
+
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            document.getElementById("timer").innerHTML =
+                minutes + "m " + seconds + "s ";
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("timer").innerHTML = "Time EXPIRED";
+                document.getElementById("myBtn").disabled = true;
+            }
+        }, 1000);
+    }
+    
+
+</script>

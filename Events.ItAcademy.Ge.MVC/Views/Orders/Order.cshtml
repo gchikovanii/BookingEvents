@@ -1,0 +1,58 @@
+﻿@using ItAcademy.Domain.OrderAggregate;
+
+@model Order
+@{
+    ViewData["Title"] = "Buy Ticket";
+}
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h1>Buy Tickets</h1>
+        </p>
+        <div class="row">
+            <div class="col-md-8 offset-2">
+                <form asp-action="Order">
+                    <div class="form-group">
+                        <label style="display: none" id="priceLabel" hidden> @Model.Price</label>
+                        <label asp-for="Price" class="control-label">Price per Ticket</label>
+                        <input asp-for="Price" class="form-control" readonly />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Quantity" class="control-label">Enter Quantity Of Tickets</label>
+                        <input asp-for="Quantity" id="quantityInput" onchange="calcSubTotal(this)" class="form-control" />
+                        <span asp-validation-for="Quantity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Total" class="control-label">Total Wiil be</label>
+                        <input asp-for="Total" class="form-control" id='totalId' readonly />
+                        <span asp-validation-for="Total" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group d-flex justify-content-between mt-3">
+                        <a class="btn btn-outline-info" asp-action="Order">Back</a>
+                        <input type="submit" value="Buy" class="btn btn-outline-success float-right" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script type="text/javascript">
+        function calcSubTotal(element) {
+            var numberInput = $(element).val();
+            var amount = parseFloat(numberInput);
+            var priceLabel = document.getElementById('priceLabel');
+            var priceValue = priceLabel.innerText;
+            var price = parseFloat(priceValue);
+            var totalPrice = amount * price;
+            var inputF = document.getElementById("totalId");
+            inputF.value = totalPrice;
+        }
+    </script>
+}
+
+

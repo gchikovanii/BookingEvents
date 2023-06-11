@@ -1,0 +1,46 @@
+﻿@using ItAcademy.Application.Orders.Responses;
+@using ItAcademy.Domain.OrderAggregate;
+@model List<Order>
+
+@{
+    ViewData["Title"] = "All orders";
+}
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h4>List of all your orders!</h4>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <th>Order ID</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                        <th>Event</th>
+
+                        <th>User</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+                            <td class="align-middle">@order.Id</td>
+                            <td class="align-middle">@order.Quantity</td>
+                            <td class="align-middle">@order.Total</td>
+                            <td class="align-middle">
+                                @Html.DisplayFor(i => order.Event.Title)
+                            </td>
+                            <td class="align-middle">@order.User.Email</td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,262 @@
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\appsettings.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.exe
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.deps.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.runtimeconfig.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.xml
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Mapster.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Scrutor.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Application.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Domain.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Infrastructure.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Persistence.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Infrastructure.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Persistence.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Application.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Domain.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ka-GE\ItAcademy.Application.resources.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.csproj.AssemblyReference.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.AssemblyInfoInputs.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.AssemblyInfo.cs
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.csproj.CoreCompileInputs.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.ItAcademy.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ItAcademy.API.props
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ItAcademy.API.props
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ItAcademy.API.props
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\scopedcss\bundle\ItAcademy.API.styles.css
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.csproj.CopyComplete
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\refint\ItAcademy.API.dll
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.xml
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.pdb
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.genruntimeconfig.cache
+C:\Users\chiko\Desktop\GiorgiChikovani-main (1)\GiorgiChikovani-main\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ref\ItAcademy.API.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\appsettings.Development.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\appsettings.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.exe
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.deps.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.runtimeconfig.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.API.xml
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\HealthChecks.SqlServer.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\HealthChecks.UI.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\AutoMapper.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Azure.Core.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\FluentValidation.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Fractions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Humanizer.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\IdentityModel.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\IdentityModel.OidcClient.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\KubernetesClient.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Mapster.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Mapster.Core.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\NCrontab.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Prometheus.NetCore.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Prometheus.NetStandard.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Scrutor.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\YamlDotNet.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Application.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Domain.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Infrastructure.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Persistence.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Infrastructure.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Persistence.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Application.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ItAcademy.Domain.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\bin\Debug\net6.0\ka-GE\ItAcademy.Application.resources.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.csproj.AssemblyReference.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.AssemblyInfoInputs.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.AssemblyInfo.cs
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.csproj.CoreCompileInputs.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.MvcApplicationPartsAssemblyInfo.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.ItAcademy.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ItAcademy.API.props
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ItAcademy.API.props
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ItAcademy.API.props
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\scopedcss\bundle\ItAcademy.API.styles.css
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.csproj.CopyComplete
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\refint\ItAcademy.API.dll
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.xml
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.pdb
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ItAcademy.API.genruntimeconfig.cache
+D:\TbcAcademyTasks\FinalProject\EventsItAcademy\ItAcademy\ItAcademy.API\obj\Debug\net6.0\ref\ItAcademy.API.dll
